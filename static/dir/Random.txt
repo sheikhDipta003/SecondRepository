@@ -1,0 +1,2 @@
+Under the dir folder which is in the static folder
+changed !!!
